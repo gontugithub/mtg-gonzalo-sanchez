@@ -1,0 +1,9 @@
+div > ul {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+}
+
+div > ul > li {
+    font-size: 10px;
+}
